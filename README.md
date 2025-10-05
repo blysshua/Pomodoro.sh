@@ -1,7 +1,6 @@
-                               |
-   _ \   _ \   ` \    _ \   _` |   _ \   _| _ \
-  .__/ \___/ _|_|_| \___/ \__,_| \___/ _| \___/
- _|
+#Pomodoro.sh 
+
+
 I made my own version for a terminal pomodoro as I'm using bash instead of zsh
 
 
