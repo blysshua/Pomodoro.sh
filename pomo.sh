@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-#cat ~/Projects/test/pom.txt
+#cat ~/Projects/test/pomo_title.txt
 
 set_intervals() {
   echo "Set study time: (minutes) "
