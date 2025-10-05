@@ -1,4 +1,4 @@
-#Pomodoro.sh 
+# Pomodoro.sh 
 
 
 I made my own version for a terminal pomodoro as I'm using bash instead of zsh
