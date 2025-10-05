@@ -20,3 +20,10 @@ If you want sound with the notification, uncomment these lines: paplay ~/Music/s
 
 and you can put your path to the sound file that you want to play. Make sure it's converted to a .wav file
 
+
+
+
+
+https://github.com/user-attachments/assets/1333c8c4-d7e8-457d-955d-f2827f14e85f
+
+
