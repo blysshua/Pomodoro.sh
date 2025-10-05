@@ -23,16 +23,12 @@ for ((i = 1; i <= repetitions; i++)); do
   echo "Lock-in: Rep $i/$repetitions"
   timer "${study_time}m"
   notify-send "Pomodoro" "Break Time"
-  #notify-send "Pomodoro" "Break Time"
-  #notify-send "Pomodoro" "Break Time"
   #paplay ~/Music/soft.wav
   clear
 
   echo "Break: Rep $i/$repetitions"
   timer "${break_time}m"
   notify-send "Pomodoro" "Back to study"
-  #notify-send "Pomodoro" "Back to study"
-  #notify-send "Pomodoro" "Back to study"
   #paplay ~/Music/soft.wav
   clear
 done
