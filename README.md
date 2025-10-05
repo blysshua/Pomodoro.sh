@@ -5,8 +5,7 @@ Heavily inspired by bashbunni on youtube https://www.youtube.com/watch?v=GfQjJBt
 I made my own version for a terminal pomodoro as I'm using bash instead of zsh
 
 
-You will need to have this timer installed
-
+You will need to have this timer installed: 
 https://github.com/caarlos0/timer?tab=readme-ov-file
 
 
