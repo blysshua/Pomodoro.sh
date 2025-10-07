@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-#cat ~/Projects/test/pomo_title.txt
+cat ~/Projects/pomodoro/pomo_title.txt
 
 set_intervals() {
   echo "Set study time: (minutes) "
@@ -23,13 +23,13 @@ for ((i = 1; i <= repetitions; i++)); do
   echo "Lock-in: Rep $i/$repetitions"
   timer "${study_time}m"
   notify-send "Pomodoro" "Break Time"
-  #paplay ~/Music/soft.wav
+  paplay ~/Projects/pomodoro/soft.wav
   clear
 
   echo "Break: Rep $i/$repetitions"
   timer "${break_time}m"
   notify-send "Pomodoro" "Back to study"
-  #paplay ~/Music/soft.wav
+  paplay ~/Projects/pomodoro/soft.wav
   clear
 done
 
