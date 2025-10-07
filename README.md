@@ -16,7 +16,7 @@ https://github.com/caarlos0/timer?tab=readme-ov-file
 
 
 
-If you want sound with the notification, uncomment these lines: paplay ~/Music/soft.wav
+If you want sound with the notification, uncomment these lines (lines 26 and 32): paplay ~/Music/soft.wav
 
 and you can put your path to the sound file that you want to play. Make sure it's converted to a .wav file
 
