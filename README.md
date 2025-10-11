@@ -4,7 +4,7 @@
 I made my own version for a terminal pomodoro as I'm using bash instead of zsh
 
 
-Heavily inspired by bashbunni on youtube 
+Inspired by bashbunni on youtube 
 https://www.youtube.com/watch?v=GfQjJBtO-8Y, 
 
 
