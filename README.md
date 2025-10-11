@@ -28,4 +28,4 @@ https://github.com/user-attachments/assets/1333c8c4-d7e8-457d-955d-f2827f14e85f
 
 
 
-If you don't care about the interface of pom.sh, pom2.sh is more minimal and can be executed straight from the command line. Just remember the order is: <command> <set study time> <set break time> <set repetitions>
+If you don't care about the interface of pom.sh, pom2.sh is more minimal and can be executed straight from the command line. Just remember the order is: [command] [set study time] [set break time] [set repetitions]
